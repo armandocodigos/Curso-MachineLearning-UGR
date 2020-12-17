@@ -1,2 +1,6 @@
-# Curso-MachineLearning-UGR
-Movilidad Erasmus Plus para docencia (Universidad de Granada – España)
+# Descripción
+El aprendizaje de máquina (machine learning) puede definirse como el estudio de algoritmos y técnicas que aprenden de la experiencia, a semejanza del cerebro humano. Es un área dentro de la Inteligencia Artificial que ofrece soluciones a problemáticas que serían imposibles de resolver utilizando programación tradicional, esto debido a variadas razones: es necesario buscar patrones que cambian a lo largo del tiempo o las relaciones que existen entre los datos son muy complejas, tal que necesitan miles o millones de cálculos para encontrar una expresión que sea lo suficientemente precisa.
+
+El objetivo de este curso es introducir al estudiante al mundo del aprendizaje de máquina con énfasis en las redes de neuronas artificiales. El estudiante aprenderá acerca de los principales tipos de problemas para los que se utilizan las redes de neuronas artificiales: aproximación (salida continua), clasificación (salida discreta) y predicción (series temporales).
+
+El aprendizaje de máquina resulta una herramienta fundamental para cualquier persona que se dedique a la ciencia de datos. El curso va dirigido especialmente a estudiantes de los grados de Matemáticas, Informática-Matemáticas y Física-Matemáticas, pero está abierto a cualquier estudiante interesado de la Facultad de Ciencias de la Universidad de Granada, España.
