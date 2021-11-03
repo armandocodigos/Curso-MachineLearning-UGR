@@ -42,7 +42,7 @@ El aprendizaje de máquina resulta una herramienta fundamental para cualquier pe
 - Reducción de dimensionalidad: Introducción al aprendizaje no supervisado. **[Teoría]**
 - Aplicando análisis de componentes principales. **[Práctica]**
 
-### Día 5: Aprendizaje no supervisado y métodos de ensamble (Viernes 19 Nov - Seminario 1 Instituto de Matemáticas)
+### Día 5: Aprendizaje no supervisado y métodos de ensamble (Viernes 19 Nov - Aula 105 ETS de Ingeniería de Caminos, Canales y Puertos)
 - [ ] *Bloque A (10:00h - 11:30h)*
 - Aprendizaje no supervisado: clusterización. **[Teoría]**
 - Agrupación no supervisada de perfiles económicos: k-medias. **[Ejercicio guiado]**
