@@ -4,3 +4,50 @@ El aprendizaje de máquina (machine learning) puede definirse como el estudio de
 El objetivo de este curso es introducir al estudiante al mundo del aprendizaje de máquina con énfasis en las redes de neuronas artificiales. El estudiante aprenderá acerca de los principales tipos de problemas para los que se utilizan las redes de neuronas artificiales: aproximación (salida continua), clasificación (salida discreta) y predicción (series temporales).
 
 El aprendizaje de máquina resulta una herramienta fundamental para cualquier persona que se dedique a la ciencia de datos. El curso va dirigido especialmente a estudiantes de los grados de Matemáticas, Informática-Matemáticas y Física-Matemáticas, pero está abierto a cualquier estudiante interesado de la Facultad de Ciencias de la Universidad de Granada, España.
+
+# Agenda
+
+### Día 1: Introducción teórica y práctica (Lunes 15 Nov - Aula A06 Fac. Ciencias)
+- [ ] *Bloque A (17:00h - 18:30h)*
+- Desmitificando el aprendizaje de máquina: conceptos relacionados. **[Teoría]**
+- ¿Qué tipo de problemas de la vida real pueden resolverse con IA? **[Teoría]**
+- Etapas de un proyecto de Ciencia de datos y ML. **[Ejercicio guiado]**
+- [ ] *Bloque B (19:00h - 20:30h)*
+- Un vistazo empírico al aprendizaje de máquina. **[Act. Dinámica]**
+- Árbol de decisión utilizando datos en tiempo real. **[Ejercicio guiado]**
+- Mi primer árbol de decisión: clasificar perfiles académicos. **[Práctica]**
+
+### Día 2: Aprendizaje supervisado (Martes 16 Nov - Aula A06 Fac. Ciencias)
+- [ ] *Bloque A (17:00h - 18:30h)*
+- Aprendizaje supervisado: modelos y conceptos. **[Teoría]**
+- Estimación de propinas mediante varios modelos de ML: regresión lineal, k-vecinos más cercanos, bosques aleatorios y máquinas de soporte vectorial. **[Ejercicio guiado]**
+- [ ] *Bloque B (19:00h - 20:30h)*
+- Conceptos estadísticos útiles: matrices de confusión, curvas ROC y Lift. **[Teoría]**
+- Aprendizaje supervisado: predicción de abandono de clientes. **[Práctica]**
+
+### Día 3: Redes de neuronas artificiales (Miércoles 17 Nov - Aula A06 Fac. Ciencias)
+- [ ] *Bloque A (17:00h - 18:30h)*
+- Redes de neuronas artificiales: modelos y conceptos. **[Teoría]**
+- Aplicación de las RNA como aproximadores universales. **[Ejercicio guiado]**
+- [ ] *Bloque B (19:00h - 20:30h)*
+- Comprendiendo las RNA mediante el Deep Playground. **[Act. Dinámica]**
+- Mi primer RNA: comprobación de autenticidad de notas de banco. **[Práctica]**
+
+### Día 4: Afrontando problemas de la vida real (Jueves 18 Nov - Aula A06 Fac. Ciencias)
+- [ ] *Bloque A (17:00h - 18:30h)*
+- Ingeniería de características: cancelación de préstamos. **[Ejercicio guiado]**
+- Datos desbalanceados: detección de fraude. **[Ejercicio guiado]**
+- Tratamiento de series temporales: predicción de precios. **[Ejercicio guiado]**
+- [ ] *Bloque B (19:00h - 20:30h)*
+- Reducción de dimensionalidad: Introducción al aprendizaje no supervisado. **[Teoría]**
+- Aplicando análisis de componentes principales. **[Práctica]**
+
+### Día 5: Aprendizaje no supervisado y métodos de ensamble (Viernes 19 Nov - Seminario 1 Instituto de Matemáticas)
+- [ ] *Bloque A (10:00h - 11:30h)*
+- Aprendizaje no supervisado: clusterización. **[Teoría]**
+- Agrupación no supervisada de perfiles económicos: k-medias. **[Ejercicio guiado]**
+- Clusterización utilizando datos en tiempo real. **[Ejercicio guiado]**
+- [ ] *Bloque B (12:00h - 13:30h)*
+- Aplicando clusterización mediante k-medias. **[Práctica]**
+- Métodos de ensamble: modelos y conceptos. **[Teoría]**
+- Cierre del curso: siguientes pasos. **[Act. Dinámica]**
