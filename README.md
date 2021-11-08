@@ -5,6 +5,10 @@ El objetivo de este curso es introducir al estudiante al mundo del aprendizaje d
 
 El aprendizaje de máquina resulta una herramienta fundamental para cualquier persona que se dedique a la ciencia de datos. El curso va dirigido especialmente a estudiantes de los grados de Matemáticas, Informática-Matemáticas y Física-Matemáticas, pero está abierto a cualquier estudiante interesado de la Facultad de Ciencias de la Universidad de Granada, España.
 
+# Plan de Trabajo
+- Versión Ligera (0.4 MB) https://github.com/armandocodigos/Curso-MachineLearning-UGR/blob/27da9a7efe192908b339f01ad186413356558a16/PlanDeTrabajoL.pdf
+- Original (2.1 MB) https://github.com/armandocodigos/Curso-MachineLearning-UGR/blob/27da9a7efe192908b339f01ad186413356558a16/PlanDeTrabajo.pdf
+
 # Agenda
 
 ### Día 1: Introducción teórica y práctica (Lunes 15 Nov - Aula A06 Fac. Ciencias)
