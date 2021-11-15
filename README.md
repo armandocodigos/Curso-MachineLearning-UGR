@@ -55,3 +55,10 @@ El aprendizaje de máquina resulta una herramienta fundamental para cualquier pe
 - Aplicando clusterización mediante k-medias. **[Práctica]**
 - Métodos de ensamble: modelos y conceptos. **[Teoría]**
 - Cierre del curso: siguientes pasos. **[Act. Dinámica]**
+
+# Códigos Fuente
+
+### Día 01
+- Código 01: https://drive.google.com/drive/folders/1W98MkCU9FDfJff8bo0IfgGmoEmsHnEYL?usp=sharing
+- Código 02: https://drive.google.com/drive/folders/11SosbExAAbX3VtmQ-V5jUuo5v-fGp2-V?usp=sharing
+- Código 03: https://drive.google.com/drive/folders/17Uog42NU8kzohn1pSd-C4M7A93BFdpIK?usp=sharing
