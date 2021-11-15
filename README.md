@@ -64,3 +64,4 @@ El aprendizaje de máquina resulta una herramienta fundamental para cualquier pe
 - Código 03: https://drive.google.com/drive/folders/17Uog42NU8kzohn1pSd-C4M7A93BFdpIK?usp=sharing
 
 https://docs.google.com/forms/d/1KByBibO0ZE3QkPNgCVLJwA4IMQFaDwFE7r6ESR_0O4Q/edit?usp=sharing
+https://forms.gle/BrKcbf3Zt7uX9xrh9
