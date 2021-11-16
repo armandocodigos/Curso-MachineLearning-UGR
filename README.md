@@ -12,11 +12,11 @@ El aprendizaje de máquina resulta una herramienta fundamental para cualquier pe
 # Agenda
 
 ### Día 1: Introducción teórica y práctica (Lunes 15 Nov - Aula A06 Fac. Ciencias)
-- [ ] *Bloque A (17:00h - 18:30h)*
+- [x] *Bloque A (17:00h - 18:30h)*
 - Desmitificando el aprendizaje de máquina: conceptos relacionados. **[Teoría]**
 - ¿Qué tipo de problemas de la vida real pueden resolverse con IA? **[Teoría]**
 - Etapas de un proyecto de Ciencia de datos y ML. **[Ejercicio guiado]**
-- [ ] *Bloque B (19:00h - 20:30h)*
+- [x] *Bloque B (19:00h - 20:30h)*
 - Un vistazo empírico al aprendizaje de máquina. **[Act. Dinámica]**
 - Árbol de decisión utilizando datos en tiempo real. **[Ejercicio guiado]**
 - Mi primer árbol de decisión: clasificar perfiles académicos. **[Práctica]**
@@ -62,6 +62,7 @@ El aprendizaje de máquina resulta una herramienta fundamental para cualquier pe
 - Código 01: https://drive.google.com/drive/folders/1W98MkCU9FDfJff8bo0IfgGmoEmsHnEYL?usp=sharing
 - Código 02: https://drive.google.com/drive/folders/11SosbExAAbX3VtmQ-V5jUuo5v-fGp2-V?usp=sharing
 - Código 03: https://drive.google.com/drive/folders/17Uog42NU8kzohn1pSd-C4M7A93BFdpIK?usp=sharing
+- Encuesta: https://forms.gle/BrKcbf3Zt7uX9xrh9
 
-https://docs.google.com/forms/d/1KByBibO0ZE3QkPNgCVLJwA4IMQFaDwFE7r6ESR_0O4Q/edit?usp=sharing
-https://forms.gle/BrKcbf3Zt7uX9xrh9
+### Día 02
+- 
