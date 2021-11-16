@@ -65,4 +65,5 @@ El aprendizaje de máquina resulta una herramienta fundamental para cualquier pe
 - Encuesta: https://forms.gle/BrKcbf3Zt7uX9xrh9
 
 ### Día 02
-- 
+- Regresión: https://drive.google.com/drive/folders/1Q1V7FPytOIcVB10QGGikwSTe6Ptjakqc?usp=sharing
+- Clasificación: https://drive.google.com/drive/folders/1-vUaVHUR7C0f6jjCXe0ix2_3gxL4Uv8j?usp=sharing
