@@ -22,10 +22,10 @@ El aprendizaje de máquina resulta una herramienta fundamental para cualquier pe
 - Mi primer árbol de decisión: clasificar perfiles académicos. **[Práctica]**
 
 ### Día 2: Aprendizaje supervisado (Martes 16 Nov - Aula A06 Fac. Ciencias)
-- [ ] *Bloque A (17:00h - 18:30h)*
+- [x] *Bloque A (17:00h - 18:30h)*
 - Aprendizaje supervisado: modelos y conceptos. **[Teoría]**
 - Estimación de propinas mediante varios modelos de ML: regresión lineal, k-vecinos más cercanos, bosques aleatorios y máquinas de soporte vectorial. **[Ejercicio guiado]**
-- [ ] *Bloque B (19:00h - 20:30h)*
+- [x] *Bloque B (19:00h - 20:30h)*
 - Conceptos estadísticos útiles: matrices de confusión, curvas ROC y Lift. **[Teoría]**
 - Aprendizaje supervisado: predicción de abandono de clientes. **[Práctica]**
 
@@ -67,3 +67,7 @@ El aprendizaje de máquina resulta una herramienta fundamental para cualquier pe
 ### Día 02
 - Regresión: https://drive.google.com/drive/folders/1Q1V7FPytOIcVB10QGGikwSTe6Ptjakqc?usp=sharing
 - Clasificación: https://drive.google.com/drive/folders/1-vUaVHUR7C0f6jjCXe0ix2_3gxL4Uv8j?usp=sharing
+
+### Día 03
+- Ejercicio 5.2: https://mybinder.org/v2/gh/tatsath/fin-ml/master
+- Práctica: 
