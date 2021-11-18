@@ -30,10 +30,10 @@ El aprendizaje de máquina resulta una herramienta fundamental para cualquier pe
 - Aprendizaje supervisado: predicción de abandono de clientes. **[Práctica]**
 
 ### Día 3: Redes de neuronas artificiales (Miércoles 17 Nov - Aula A06 Fac. Ciencias)
-- [ ] *Bloque A (17:00h - 18:30h)*
+- [x] *Bloque A (17:00h - 18:30h)*
 - Redes de neuronas artificiales: modelos y conceptos. **[Teoría]**
 - Aplicación de las RNA como aproximadores universales. **[Ejercicio guiado]**
-- [ ] *Bloque B (19:00h - 20:30h)*
+- [x] *Bloque B (19:00h - 20:30h)*
 - Comprendiendo las RNA mediante el Deep Playground. **[Act. Dinámica]**
 - Mi primer RNA: comprobación de autenticidad de notas de banco. **[Práctica]**
 
