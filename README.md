@@ -86,4 +86,3 @@ El aprendizaje de máquina resulta una herramienta fundamental para cualquier pe
 - Guido, S., & Mueller, A. C. (2016). Introduction to machine learning with python: A guide for data scientists. O’Reilly Media.
 - Tatsat, H., Puri, S., & Lookabaugh, B. (2021). Machine learning and data science blueprints for finance: From building trading strategies to robo-advisors using python. O’Reilly Media.
 - Vinuela, P. I. (2005). Redes de neuronas artificiales - Un enfoque practico. Pearson Educacion.
-- 
