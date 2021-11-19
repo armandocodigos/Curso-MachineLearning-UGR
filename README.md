@@ -38,11 +38,11 @@ El aprendizaje de máquina resulta una herramienta fundamental para cualquier pe
 - Mi primer RNA: comprobación de autenticidad de notas de banco. **[Práctica]**
 
 ### Día 4: Afrontando problemas de la vida real (Jueves 18 Nov - Aula A06 Fac. Ciencias)
-- [ ] *Bloque A (17:00h - 18:30h)*
+- [x] *Bloque A (17:00h - 18:30h)*
 - Ingeniería de características: cancelación de préstamos. **[Ejercicio guiado]**
 - Datos desbalanceados: detección de fraude. **[Ejercicio guiado]**
 - Tratamiento de series temporales: predicción de precios. **[Ejercicio guiado]**
-- [ ] *Bloque B (19:00h - 20:30h)*
+- [x] *Bloque B (19:00h - 20:30h)*
 - Reducción de dimensionalidad: Introducción al aprendizaje no supervisado. **[Teoría]**
 - Aplicando análisis de componentes principales. **[Práctica]**
 
@@ -75,3 +75,15 @@ El aprendizaje de máquina resulta una herramienta fundamental para cualquier pe
 ### Día 04
 - Ejercicios 6.2, 6.1 y 5.1: https://mybinder.org/v2/gh/tatsath/fin-ml/master
 - Práctica: https://drive.google.com/drive/folders/1Wxt2ZbvB0b19ogxKSKIqy6qS10QBPVos?usp=sharing
+
+### Día 05
+- Ejercicio 8.2: https://mybinder.org/v2/gh/tatsath/fin-ml/master
+- Práctica: 
+
+# Bibliografía
+
+- Geron, A. (2017). Hands-on machine learning with scikit-learn and TensorFlow. O’Reilly Media.
+- Guido, S., & Mueller, A. C. (2016). Introduction to machine learning with python: A guide for data scientists. O’Reilly Media.
+- Tatsat, H., Puri, S., & Lookabaugh, B. (2021). Machine learning and data science blueprints for finance: From building trading strategies to robo-advisors using python. O’Reilly Media.
+- Vinuela, P. I. (2005). Redes de neuronas artificiales - Un enfoque practico. Pearson Educacion.
+- 
