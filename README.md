@@ -78,7 +78,7 @@ El aprendizaje de máquina resulta una herramienta fundamental para cualquier pe
 
 ### Día 05
 - Ejercicio 8.2: https://mybinder.org/v2/gh/tatsath/fin-ml/master
-- Práctica: 
+- Práctica: https://drive.google.com/drive/folders/12yy-ElR1uaL4aN4cfoKrNtwDPV5HvbPH?usp=sharing
 
 # Bibliografía
 
