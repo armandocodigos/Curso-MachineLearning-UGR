@@ -77,8 +77,9 @@ El aprendizaje de máquina resulta una herramienta fundamental para cualquier pe
 - Práctica: https://drive.google.com/drive/folders/1Wxt2ZbvB0b19ogxKSKIqy6qS10QBPVos?usp=sharing
 
 ### Día 05
+- Ejemplo: https://drive.google.com/drive/folders/12yy-ElR1uaL4aN4cfoKrNtwDPV5HvbPH?usp=sharing
 - Ejercicio 8.2: https://mybinder.org/v2/gh/tatsath/fin-ml/master
-- Práctica: https://drive.google.com/drive/folders/12yy-ElR1uaL4aN4cfoKrNtwDPV5HvbPH?usp=sharing
+- Práctica: https://drive.google.com/drive/folders/1cla-gmSs7O3Uqlzm3rqjPKspJKpYlRke?usp=sharing
 
 # Bibliografía
 
